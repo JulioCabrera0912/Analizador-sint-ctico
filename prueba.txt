@@ -1,0 +1,13 @@
+-UwU-int x=5
+
+-UwU-float y=3.4
+
+-UwU-var nombre = “jacy”
+
+-UwU-print = “cadena”
+
+-UwU-def identificador()
+
+-UwU-if x<9: C UwU-else: C ó UwU-if nombre == ”yo”: C UwU-else: C
+
+-UwU-for x=3; x≤y; x++: C
