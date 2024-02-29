@@ -1,1 +1,1 @@
-# Analizador-sint-ctico
+# Analizador-sintactico del 2do corte
